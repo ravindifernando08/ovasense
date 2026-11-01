@@ -4,11 +4,11 @@ import {
   BrainCircuit,
   ShieldCheck,
   ScanSearch,
-  ArrowUpRight,
   GitBranch,
 } from 'lucide-react'
-import SectionHeading from '../components/common/SectionHeading'
+
 import { motion } from 'framer-motion'
+
 
 const researchAreas = [
   {

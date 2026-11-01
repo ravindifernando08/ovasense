@@ -1,5 +1,9 @@
 
-import { ArrowRight, CheckCircle2, Stethoscope, ShieldCheck } from 'lucide-react'
+import {
+  ArrowRight,
+  Stethoscope,
+  ShieldCheck,
+} from 'lucide-react'
 import SectionHeading from '../components/common/SectionHeading'
 
 const criteria = [

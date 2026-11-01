@@ -58,7 +58,7 @@ export default function Resources() {
 
         <div className="grid md:grid-cols-2 gap-6">
 
-          {references.map((reference, index) => {
+          {references.map(reference => {
             const Icon = reference.icon
 
             return (
